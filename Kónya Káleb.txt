@@ -1,0 +1,5 @@
+git init
+
+git config --global user.name "konyakaleb-dev"
+
+git config --global user.email "konya.kaleb@szikszi-ozd.hu"
